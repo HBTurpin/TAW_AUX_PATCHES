@@ -1,0 +1,3 @@
+- Adds various player TAW seals to cfgUnitInsignia.
+- Adds various flags to cfgUnitInsignia.
+- Adds various fun patches to cfgUnitInsignia.
